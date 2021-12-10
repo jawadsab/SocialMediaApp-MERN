@@ -1,0 +1,2 @@
+# SocialMediaApp-MERN
+MERN Application
